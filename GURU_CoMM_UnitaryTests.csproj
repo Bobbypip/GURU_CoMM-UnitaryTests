@@ -19,8 +19,4 @@
     <PackageReference Include="MSTest.TestFramework" Version="2.1.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\GURU_CoMM\GURU_CoMM.csproj" />
-  </ItemGroup>
-
 </Project>
